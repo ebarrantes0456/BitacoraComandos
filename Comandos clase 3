@@ -1,0 +1,15 @@
+sudo- Comando que da permisos de administrador a otros comandos. 
+pdw - Comando para ver la ruta actual en la que se encuantra.
+cd .. - Comando para devolverse a la carpeta/folder anterior.
+mkdir - Comando para crear una nueva carpeta.
+touch - Crear un archivo desde cero.
+nano - Modificar un archivo.
+cat - Ver el contenido de un archivo sin modificarlo
+ip addr - Comando utilizado para que la maquina nos muestre la información de IP (adaptadores de red). 
+ping {IP address} - comando para porbar la conectividad con otros equipos.
+sudo apt install - comando utilizado para instalar paquetes/aplicaciones, etc.
+sudo apt update && sudo apt upgrade - comando para actualizar el sistema a la ultima version activa. 
+sudo apt install openssh-server - Comando para instalar el protocolo de SSH para transferencia de archivos y conexión remota. 
+nmap {IP address} - Comando que verifica que el protocolo SSH este activado y funcionando
+cat  /etc/passwd - Muestra todos los usuarios loggeados en el sistema. 
+clear - limpiar la pantalla de la terminal 
